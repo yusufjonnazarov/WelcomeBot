@@ -15,13 +15,12 @@ npm i
 ```
 ## Fill some info with creating `.env` file
 ```
-BOT_TOKEN=bot-token
-WELCOME_MESSAGE=welcome-message
-LEFT_MESSAGE=left-message
-GROUP_ID=group-id
+BOT_TOKEN=bot_token
+WELCOME_MESSAGE=welcome_message
+LEFT_MESSAGE=left_message
+GROUP_ID=group_id
 ```
 ## Run project
 ```
 npm run dev
 ```
-## And don't forget star ...
